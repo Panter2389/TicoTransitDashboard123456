@@ -1,2 +1,5 @@
 # Sensitive personal/financial documents - NEVER commit to GitHub
 silverzonelabs/important_documents/
+
+# Filled contract drafts contain owner home address + legal name - keep local
+silverzonelabs/SilverZoneLabs_Manufacturing_Agreement_DRAFT.*
